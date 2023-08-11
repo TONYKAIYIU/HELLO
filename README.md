@@ -22,3 +22,8 @@ Hey guys! I'm Tony, a business information system student at Curtin Uni, Perth! 
 
 - **Instagram**: <a href="https://www.instagram.com/fattyiu/">FATTYIU</a> <a href="https://www.instagram.com/fato.graph/">FATO.GRAPH</a>
 - **Facebook**: <a href="https://www.facebook.com/tonykaiyiu/">Ng Kai Yiu</a>
+
+
+
+#### Credit
+Profile inspired by <a href="https://github.com/PluckyPrecious">PluckyPrecious</a>
